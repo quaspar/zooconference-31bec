@@ -33,3 +33,13 @@ $palette: (
 @import "imports/footer";
 @import "imports/palettes";
 @import "imports/banner";
+
+.avatarVideo {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.hidden {
+  display: none;
+}
